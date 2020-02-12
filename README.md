@@ -1,7 +1,7 @@
 # BMI-Calculator
 
 Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.
-BMI Calculator allows you to monitor BMI and percentage of fat in your body from your Weight and Height.
+BMI Calculator allows you to monitor the percentage of fat in your body from your Weight and Height.
 Body fat percentage is estimated from BMI by formula [weight / (height)^2].
 
 * Underweight: <18.5 (Blue background)
